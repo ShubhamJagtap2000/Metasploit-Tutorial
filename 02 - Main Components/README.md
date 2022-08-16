@@ -6,7 +6,7 @@
 
 - Modules are small components within the Metasploit Framework that are built to perform a specific task, such as exploiting a vulnerability, scanning a target, or performing a brute-force attack. 
 
-- Before diving into **[Modules]()**, it would be helpful to clarify a few recurring concepts: vulnerability, exploit, and payload.
+- Before diving into **[Modules](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/02%20-%20Main%20Components/Modules)**, it would be helpful to clarify a few recurring concepts: vulnerability, exploit, and payload.
 
   - **<ins>Exploit</ins>:** A piece of code that uses a vulnerability present on the target system.
   
