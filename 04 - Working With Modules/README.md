@@ -34,9 +34,13 @@ msf5> or msf6>
 
 
 **2. RPORT:** ***Remote port***, the port on the target system the vulnerable application is running on. <br>
+
 **3. PAYLOAD:** The payload you will use with the exploit. <br>
+
 **4. LHOST:** ***Localhost***, the ***attacking machine IP*** address. <br>
+
 **5. LPORT:** ***Local port***, the port you will use for the reverse shell to connect back to. This is a port on your ***attacking*** machine, and you can set it to any port not used by any other application. <br>
+
 **6. SESSION:** Each connection established to the target system using Metasploit will have a ***session ID***. You will use this with post-exploitation modules that will connect to the target system using an existing connection. <br>
 
 ### **<ins>Once you have set a parameter, you can use the `show options` command to check the value was set correctly.</ins>**
