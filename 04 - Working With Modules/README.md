@@ -48,6 +48,42 @@ msf5> or msf6>
 
 # Other Steps
 
+## Shell on the Target Sysytem
 
+- Once the ***exploit is completed***, you may have access to a command shell on the target system. This is a regular command line, and all commands typed here run on the target system.
+```
+C:\Windows\system32>
+```
 
-  
+## The unset all Command
+
+- You can also clear any parameter value using the `unset` command or clear all set parameters with the `unset all` command.
+
+  ![Screenshot (852)](https://user-images.githubusercontent.com/63872951/185169258-70cc3875-d5e7-492d-ab9a-b71a5ad7d4ca.png)
+
+## The setg and unsetg Command
+
+- You can use the `setg` command to set values that will be used for all modules. The setg command is used like the set command. 
+
+- The ***difference*** is that if you use the set command to set a value using a module and you switch to another module, you will need to set the value again. The setg command allows you to set the value so it can be used by ***default*** across different modules. 
+
+- You can ***clear*** any value set with setg using `unsetg`.
+
+- The example below uses the following flow;
+
+    - We use the ***ms17_010_eternalblue*** exploitable
+    - We set the ***RHOSTS*** variable using the `setg` command instead of the `set` command
+    - We use the `back` command to leave the exploit context
+    - We use an **auxiliary** (this module is a scanner to discover ***MS17-010*** vulnerabilities)
+    - The `show options` command shows the ***RHOSTS*** parameter is already populated with the **IP** address of the ***target*** system.
+    
+     ![Screenshot (853)](https://user-images.githubusercontent.com/63872951/185171752-1d48de7e-d300-4ea7-a5bc-731e5af3bc6e.png)
+
+    
+- The `setg` command sets a **<ins>global</ins>** value that will be used until you exit Metasploit or clear it using the `unsetg` command.
+
+# Next Steps: 
+
+## [Using Modules](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/04%20-%20Working%20With%20Modules/Modules%20Usage)
+
+## [Sessions](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/04%20-%20Working%20With%20Modules/Sessions)
