@@ -35,10 +35,10 @@
 ## Below are some of the most commonly used commands
 
 ### [1. Core Commands](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/12%20-%20Meterpreter%20Commands/01%20-%20Core%20Commands)
-### [2. File System Commands](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/12%20-%20Meterpreter%20%20Commands/02%20-%20File%20System%20Commands)
-### [3. Networking Commands](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/12%20-%20Meterpreter%20%20Commands/03%20-%20Networking%20Commands)
-### [4. System Commands](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/12%20-%20Meterpreter%20%20Commands/04%20-%20System%20Commands)
-### [5. Other Commands](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/12%20-%20Meterpreter%20%20Commands/05%20-%20Other%20Commands)
+### [2. File System Commands](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/12%20-%20Meterpreter%20Commands/02%20-%20File%20System%20Commnads)
+### [3. Networking Commands](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/12%20-%20Meterpreter%20Commands/03%20-%20Networking%20Commands)
+### [4. System Commands](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/12%20-%20Meterpreter%20Commands/04%20-%20System%20Commands)
+### [5. Other Commands](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/12%20-%20Meterpreter%20Commands/05%20-%20Other%20Commands)
 
 #
 
