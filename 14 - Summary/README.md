@@ -2,7 +2,7 @@
 
 ## Metasploit Inrtoduction
 
-- Metasploit is a powerful tool that facilitates the exploitation process. The exploitation process comprises three main steps; *finding the exploit*, *customizing the exploit*, and *exploiting the vulnerable service*.
+- Metasploit is a powerful tool that facilitates the exploitation process. The exploitation process comprises three main steps; ***finding the exploit***, ***customizing the exploit***, and ***exploiting the vulnerable service***.
 
 - Metasploit provides many modules that you can use for each step of the exploitation process. Through this repo, we have seen the basic components of Metasploit and their respective use.
 
