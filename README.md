@@ -55,7 +55,7 @@
   > **Hashdump** <br>
   > **Search** <br>
   > **Shell** <br>
-### [14. Summary]()
+### [14. Summary](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/14%20-%20Summary)
 ### [15. Additional Resources]()
 
 
