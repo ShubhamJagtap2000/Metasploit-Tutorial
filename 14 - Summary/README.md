@@ -1,6 +1,6 @@
 # What We Learnt ?
 
-## Metasploit Inrtoduction
+## Metasploit Introduction
 
 - Metasploit is a powerful tool that facilitates the exploitation process. The exploitation process comprises three main steps; ***finding the exploit***, ***customizing the exploit***, and ***exploiting the vulnerable service***.
 
