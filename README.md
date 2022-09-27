@@ -63,6 +63,9 @@
 ### [16. Post-Exploitation Challenge](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/16%20-%20Post%20Exploitation%20Challenge)
 ### [17. QnA](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/17%20-%20QnA)
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
 
 
 
