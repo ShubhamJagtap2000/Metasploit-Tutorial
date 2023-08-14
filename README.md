@@ -9,7 +9,8 @@
 
 - Get hands-on with the various tool and features Metasploit provides, from exploit development to post-exploitation techniques, this repo covers it all.
 
-- A humble request to all the stargazers, visitors, and topic seekers to start a discussion, raise an issue, and suggest improvements by raising a pull request. 
+- A humble request to all the stargazers, visitors, and topic seekers to start a discussion, [raise an issue](https://github.com/ShubhamJagtap2000/Metasploit/blob/main/.github/ISSUE_TEMPLATE/custom.md), and suggest improvements by [raising a pull request](https://github.com/ShubhamJagtap2000/Metasploit/blob/main/CONTRIBUTING.md). 
+
 
 # Table Of Content
 
