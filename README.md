@@ -5,9 +5,11 @@
 
 - Metasploit is the most widely used exploitation framework. Learn how to use it and unlock its full potential.
 
-- The Metasploit framework is a set of open-source tools used for network enumeration, identifying vulnerabilities, developing payloads and executing exploit code against remote target machines. 
+- The Metasploit framework is a set of open-source tools for network enumeration, identifying vulnerabilities, developing payloads, and executing exploit code against remote target machines. 
 
 - Get hands-on with the various tool and features Metasploit provides, from exploit development to post-exploitation techniques, this repo covers it all.
+
+- A humble request to all the stargazers, visitors, and topic seekers to start a discussion, raise an issue, and suggest improvements by raising a pull request. 
 
 # Table Of Content
 
