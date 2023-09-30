@@ -3,14 +3,18 @@
    &ensp;&ensp;&ensp;&ensp;&ensp; ![metasploit-1024x480](https://user-images.githubusercontent.com/63872951/187396388-1c15dd6e-95a0-438a-ada5-71e49ff17f4e.jpg)
 
 
-- Metasploit is the most widely used exploitation framework. Learn how to use it and unlock its full potential.
+- Metasploit is the most widely used exploitation framework. You can learn how to use it and unlock its full potential.
 
 - The Metasploit framework is a set of open-source tools for network enumeration, identifying vulnerabilities, developing payloads, and executing exploit code against remote target machines. 
 
-- Get hands-on with the various tool and features Metasploit provides, from exploit development to post-exploitation techniques, this repo covers it all.
+- Get hands-on with the various tools and features Metasploit provides, from exploit development to post-exploitation techniques, this repo covers it all.
 
-- A humble request to all the stargazers, visitors, and topic seekers to start a discussion, [raise an issue](https://github.com/ShubhamJagtap2000/Metasploit/blob/main/.github/ISSUE_TEMPLATE/custom.md), and suggest improvements by [raising a pull request](https://github.com/ShubhamJagtap2000/Metasploit/blob/main/CONTRIBUTING.md). 
+- **This repo is open for contributors!**
+**Please ⭐ this repo if you find it worth learning and insightful, thank you!**
 
+- A humble request to all the stargazers, visitors, and topic seekers to start a discussion, **[raise an issue](https://github.com/ShubhamJagtap2000/Metasploit/blob/main/.github/ISSUE_TEMPLATE/custom.md)**, and suggest improvements by **[submitting a pull request](https://github.com/ShubhamJagtap2000/Metasploit/blob/main/CONTRIBUTING.md)**. 
+
+- Please read our [Contribution Guidelines](https://github.com/ShubhamJagtap2000/Metasploit-Tutorial/blob/main/CONTRIBUTING.md) before submitting an issue/PR.
 
 # Table Of Content
 
@@ -65,8 +69,6 @@
 ### [15. Additional Resources](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/15%20-%20Additional%20Resources)
 ### [16. Post-Exploitation Challenge](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/16%20-%20Post%20Exploitation%20Challenge)
 ### [17. QnA](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/17%20-%20QnA)
-
-**Please ⭐ this repo if you found it worth learning and interesting, thank you!**
 
 
 
