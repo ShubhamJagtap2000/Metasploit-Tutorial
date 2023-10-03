@@ -18,7 +18,7 @@
 
 # Table Of Content
 
-### [1. Introdcution](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/01%20-%20Introduction)
+### [1. Introduction](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/01%20-%20Introduction)
 ### [2. Main Components](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/02%20-%20Main%20Components)
    > **[Modules](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/02%20-%20Main%20Components/Modules)** <br>
     &ensp; **Auxiliary** <br>
