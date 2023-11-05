@@ -69,6 +69,7 @@
 ### [15. Additional Resources](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/15%20-%20Additional%20Resources)
 ### [16. Post-Exploitation Challenge](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/16%20-%20Post%20Exploitation%20Challenge)
 ### [17. QnA](https://github.com/ShubhamJagtap2000/Metasploit/tree/main/17%20-%20QnA)
+### [18. Scripts](https://github.com/ShubhamJagtap2000/Metasploit-Tutorial/tree/main/18%20-%20Scripts)
 
 
 
